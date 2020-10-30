@@ -1,4 +1,7 @@
 # HTML5
+
+https://docs.emmet.io/actions/expand-abbreviation/
+
 Useful emmet / snippets in vscode
 
 ! to default
@@ -30,6 +33,8 @@ div#mainContainer -> div with id of mainContainer
 h1#header -> h1 with id of header
 
 Combine class and id
+
+
 
 div.container#mainContainer -> div with class of container and id of mainContainer
 
@@ -92,3 +97,18 @@ script:src
 input:text|email|password|date|number|submit|button
 
 btn
+
+
+Installation
+Install Visual Studio Code 0.10.1 or higher
+Launch VS Code
+Launch the command palette by using Ctrl-Shift-P (Windows, Linux) or Cmd-Shift-P (OSX)
+Type in Install Extension and select 'Extensions : Install Extensions'
+Type HTML5 Boilerplate
+Choose the extension from the drop down
+Reload Visual Studio Code
+
+Usage
+Create a new document
+Set the language mode to html
+Type html the auto-complete option for html5-boilerplate shows. Select it to generate the boilerplate
